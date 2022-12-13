@@ -1,2 +1,4 @@
-com/denisantonov/Main.java
- com.denisantonov.Main
+javalesson2/Main.java
+ javalesson2.Main
+com/denisantonov/ClassArray.java
+ com.denisantonov.ClassArray
